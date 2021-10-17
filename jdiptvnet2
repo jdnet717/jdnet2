@@ -1,0 +1,219 @@
+# EXTM3U
+
+ 
+    #EXTINF: -1 tvg-id = "" tvg-name = "BAND SPORTS" tvg-logo = "https://cdn.mitvstatic.com/channels/br_bandsports_m.png" group-title = "ESPORTES", BAND SPORTS
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32395
+
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "ESPN" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/espn.png" group-title = " ESPORTES ", ESPN  
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31134
+
+ 
+ 
+ 
+ #EXTINF: -1 tvg-id = "" tvg-name = "FOX SPORTS2" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/foxsports.png" group-title = "ESPORTES", FOX SPORTS2
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31149
+
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "FOX SPORTS" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/foxsports.png" group-title = "ESPORTES", FOX SPORTS
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31156
+ 
+
+#EXTINF: -1 tvg-id = "" tvg-name = "FOX SPORTS" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBo0RQzwMN6aen2RnpqT4hbjLf_eiUJmTTpw&usqp=CAU" group-title = "ESPORTES", COMBATE
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31137
+
+
+#EXTINF: -1 tvg-id = "" tvg-name = "FOX SPORTS" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoeWKeBQQb4QFBJ5FqEZK9g_8C-h1gNYkxZA&usqp=CAU" group-title = "ESPORTES", PREMIERE CLUBES
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31525
+ 
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "GLOBO" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/globo-2-100x100.png" grupo -title = "CANAIS BR", GLOBO
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32175
+ 
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "SBT SP" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/sbt-1-100x100.png" título-grupo = "CANAIS BR", SBT SP
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31075
+ 
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "BAND SP" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/band.png" group-title = "CANAIS BR", BAND SP
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31061
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "RECORD" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/rederecord.png" group-title = " CANAIS BR ", RECORD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31562
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "REDE TV" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/redetv.png" group-title = "CANAIS BR", REDE TV
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31072
+
+
+
+#EXTINF: -1 tvg-id = "" tvg-name = "FOX PREMIUM" tvg-logo = "" group-title = "FILMES", TNT SERIES
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31302
+ 
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "FOX" tvg-logo = "" group-title = "FILMES", A&E
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31268
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "TNT" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/tnt-100x100.png" group-title = "FILMES", TNT
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31300
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "TNT" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/hbo2hd.png" group-title = " FILMES ", HBO2
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31460
+
+
+#EXTINF: -1 tvg-id = "" tvg-name = "TNT" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/hbo2hd.png" group-title = " FILMES ", HBO
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31465
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "TELECINE PIPOCA" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/tcpipocahd.png" group-title = "FILMES", TELECINE PIPOCA    
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31590
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "TELECINE" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/tcpremium.png" group-title = " FILMES ", TELECINE FUN
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31588
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "TELECINE" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/tcactionhd.png" group-title = " FILMES ", AÇÃO ACTION
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31583
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "TELECINE PIPOCA" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/hboplus.png" group-title = "FILMES", HBO SIGNATURE
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31473
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "ESPAÇO" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/space.png" group-title = " FILMES ", SPACE
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31283
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "MEGAPIX" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/hbofamily.png" group-title = " FILMES ", HBO FAMILY  
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31462
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "HBO" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/hbohd.png" group-title = " FILMES ",PARAMONT CHANNEL
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31281
+
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "FX" tvg-logo = "" group-title = " FILMES ", FX
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31277
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "TOONCAST" tvg-logo = "" group-title = "DESENHOS", TONCAST
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31501
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "NICKELODEON" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/nick.png" group-title = " DESENHOS ", NICK
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31500
+ 
+
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "NICK JR" "group-title =" DESENHOS ", NICK JR
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31498
+ 
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "CANAL DISNEY" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/disneyxd.png" group-title = "DESENHOS", DISNEY XD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31488
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "CANAL DISNEY" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/disneyjr.png" group-title = "DESENHOS", DISNEY JR
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31486
+
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "CANAL DISNEY" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/disneychannel.png" group-title = "DESENHOS", DISNEY CHANNEL
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31484
+
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "BOOMERANG" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/boomerang.png" group-title = " DESENHOS ", BOOMERANG
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31478
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "ANIMAL PLANET" tvg-logo = "" group-title = "DOCUMENTARIOS", ANIMAL PLANET
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31105
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "DISCOVERY CHANNEL" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/discovery.png" group-title = "DOCUMENTARIOS", DISCOVERY CHANNEL
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31106
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "DISCOVERY CHANNEL" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/discoveryhomehealth.png" group-title = "DOCUMENTARIOS", DISCOVERY H&H
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31108
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "DISCOVERY CHANNEL" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/discoveryturbo.png" group-title = "DOCUMENTARIOS", DISCOVERY TURBO
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31115
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "CANAL DE HISTÓRIA" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/history.png" group-title = "DOCUMENTARIOS", HISTORY
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31123
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "CANAL DE HISTÓRIA" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/h2.png" group-title = "DOCUMENTARIOS", H2
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31119
+
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "DISCOVERY" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/natgeo.png" group-title = " DOCUMENTARIOS ", NAT GEO WILD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31125
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "NATIONAL GEOGRAPHIC" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/natgeochannel.png" group-title = "DOCUMENTARIOS", NATIONAL GEOGRAPHIC
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31127
+ 
+ 
+ 
+ 
+ #EXTINF: -1 tvg-id = "" tvg-name = "GLOBO NEWS" tvg-logo = "" group-title = "NOTICIAS", VIVA 
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31631
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "GLOBO NEWS" tvg-logo = "" group-title = "NOTICIAS", COMEDY CENTRAL
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31600
+
+ 
+ 
+ 
+ 
+#EXTINF: -1 tvg-id = "" tvg-name = "GLOBO NEWS" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/bandnews.png" group-title = "NOTICIAS", BAND NEWS
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31506
+
+
+#EXTINF: -1 tvg-id = "" tvg-name = "GLOBO NEWS" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/bandnews.png" group-title = "NOTICIAS", RECORD NEWS
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31523
+
+
+
+#EXTINF: -1 tvg-id = "" tvg-name = "GLOBO NEWS" tvg-logo = "http://aovivo.club/wp-content/uploads/2019/07/bandnews.png" group-title = "NOTICIAS", GLOBO NEWS
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31518
